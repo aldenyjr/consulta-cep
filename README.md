@@ -18,7 +18,7 @@ Esse projeto foi desenvolvido para colocar em pratica os conceitos de manipulaç
 
 ![Layout](https://user-images.githubusercontent.com/114154072/229600123-a88744c9-7066-4497-adc6-695eb6460cc5.png)
 
-> Link do deploy da aplicação: <a href="https://calcular-imc-six.vercel.app">Clique e Veja!</a>
+> Link do deploy da aplicação: <a href="https://consulta-cep-roan.vercel.app/">Clique e Veja!</a>
 
 # Pré-requisitos e Instruções
 
