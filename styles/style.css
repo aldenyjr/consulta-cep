@@ -1,0 +1,41 @@
+
+
+h1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+img{
+    margin-bottom: 25px;
+}
+.input {
+    text-align: center;
+
+}
+.button {
+    margin-top: 25px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.lista {
+    display: flex;
+    list-style-type: none;
+}
+
+li {
+    padding: 25px;
+    font-size: medium;
+    font-family: 'Lucida Sans', 
+                 'Lucida Sans Regular', 
+                 'Lucida Grande', 
+                 'Lucida Sans Unicode', 
+                 Geneva, Verdana, sans-serif;
+    font-weight: 500;
+
+}
